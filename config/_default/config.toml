@@ -1,0 +1,37 @@
+baseURL = "https://juliocampos.com.br"
+languageCode = "pt-BR"
+title = "Júlio Campos - Mais um blog de mais uma pessoa desenvolvedora"
+theme = "anatole"
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+# Syntax highlighting
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+        unsafe=true
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[menu.main]]
+  name = "Sobre"
+  weight = 300
+  identifier = "sobre"
+  url = "/sobre/"

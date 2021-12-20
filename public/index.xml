@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Júlio Campos - Mais um blog de mais uma pessoa desenvolvedora</title>
+    <link>https://juliocampos.com.br/</link>
+    <description>Recent content on Júlio Campos - Mais um blog de mais uma pessoa desenvolvedora</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language><atom:link href="https://juliocampos.com.br/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://juliocampos.com.br/sobre/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliocampos.com.br/sobre/</guid>
+      
+        <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
