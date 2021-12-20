@@ -9,7 +9,7 @@ tags:
   - "Blockchain"
   - "Hype Cycle"
   - "Lei de Amara"
-description: "É normal passarmos pelo vale da desilusão com tecnologias e com blockchain será diferente"
+description: "É normal passarmos pelo vale da desilusão com tecnologias e com blockchain não será diferente"
 ---
 Roy Amara  formulou uma lei ao observar como as pessoas avaliavam novidades nos anos 1960. A chamada __Lei de Amara__ diz que “tendemos a sobrestimar o efeito de uma tecnologia no curto prazo e subestimá-lo no longo prazo”.
 
