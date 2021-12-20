@@ -2,7 +2,7 @@
 title: A Lei de Amara, Hype Cycle e Blockchain
 date: "2019-01-31T12:00:00.000Z"
 layout: post
-draft: true
+draft: false
 path: "/posts/a-lei-de-amara-hype-cycle-e-blockchain/"
 category: "Blog"
 tags:
